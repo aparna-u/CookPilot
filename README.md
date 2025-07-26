@@ -251,7 +251,7 @@ To complete this quest and **AUTOMATICALLY UPDATE** your progress, you MUST push
 
 **Checklist**
 
-- [ ] Have a `node-os-mcp` folder in the packages directory
+- [x] Have a `node-os-mcp` folder in the packages directory
 
 1. In the terminal, run the following commands to add, commit, and push your changes to the repository:
 
